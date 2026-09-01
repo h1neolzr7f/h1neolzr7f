@@ -17,3 +17,6 @@
 [樱夜·尸潮](https://github.com/h1neolzr7f/sakurayo-zombietide)是离线射击游戏。STM32 智能鱼缸、工地安全识别、体育馆预约和 Java 课程实验整理在[作品集](https://github.com/h1neolzr7f/dev-portfolio)。
 
 Nai学长工作室以 `NaiXueZhang-Studio-Upgrade` 为当前维护线，`NaiXueZhang-Studio` 保留 v1.4 版本。漫画编辑器的基础能力来自 [new-sankaku/manga-editor-desu](https://github.com/new-sankaku/manga-editor-desu)，`Manga-Editor-Desu-NAI` 是其 GPL-3.0 修改发行版。上述第三方平台相关工具均为非官方项目。
+
+完整的公开仓库关系、版本线和归档入口见 [仓库地图](docs/repositories.md)。
+
