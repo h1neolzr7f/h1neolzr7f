@@ -6,7 +6,7 @@
 
 | 项目 | 用途 | 下载与记录 |
 | --- | --- | --- |
-| [Manga-NAI-GPT](https://github.com/h1neolzr7f/Manga-NAI-GPT) | 新手友好的漫画修图 / 嵌字：换角色、改字幕、去字、分层、本机 AI 与自备 GPT-image / NovelAI | [仓库](https://github.com/h1neolzr7f/Manga-NAI-GPT) · [Release](https://github.com/h1neolzr7f/Manga-NAI-GPT/releases/latest) · [上手指南](https://github.com/h1neolzr7f/Manga-NAI-GPT/blob/main/docs/QUICK_START_BEGINNER.md) |
+| [Manga-NAI-GPT](https://github.com/h1neolzr7f/Manga-NAI-GPT) | 新手友好的漫画修图 / 嵌字（当前 1.5）：换角色、改字幕、改一块、分层、剧本成页、角色库、自动气泡、PSD，本机 AI 与自备 GPT-image / NovelAI | [仓库](https://github.com/h1neolzr7f/Manga-NAI-GPT) · [Release](https://github.com/h1neolzr7f/Manga-NAI-GPT/releases/latest) · [上手指南](https://github.com/h1neolzr7f/Manga-NAI-GPT/blob/main/docs/QUICK_START_BEGINNER.md) |
 | [Nai学长工作室](https://github.com/h1neolzr7f/NaiXueZhang-Studio-Upgrade) | 本地图库检索、提示词管理、批量生成和后处理 | [下载](https://github.com/h1neolzr7f/NaiXueZhang-Studio-Upgrade/releases) · [使用指南](https://github.com/h1neolzr7f/NaiXueZhang-Studio-Upgrade/blob/main/docs/user-guide.md) |
 | [丁真笔记本](https://github.com/h1neolzr7f/dingzhen-notebook) | 已完成试卷的采集、OCR、人工校对和错题复习，提供 Windows 与 Android 端 | [下载](https://github.com/h1neolzr7f/dingzhen-notebook/releases) · [更新记录](https://github.com/h1neolzr7f/dingzhen-notebook/blob/main/CHANGELOG.md) |
 
