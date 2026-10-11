@@ -8,7 +8,8 @@
 | --- | --- | --- |
 | Nai学长工作室 | [当前 Windows 主线](https://github.com/h1neolzr7f/NaiXueZhang-Studio-Upgrade) | 本地图库与生成任务工作台；源码、文档和 Windows Release 在同一仓库维护 |
 | 丁真笔记本 | [桌面 / Android 源码与发布](https://github.com/h1neolzr7f/dingzhen-notebook) | 已完成试卷的采集、OCR、人工校对与复习；桌面截图使用合成回归数据 |
-| Manga Editor Desu · NAI | [GPL-3.0 修改版](https://github.com/h1neolzr7f/Manga-Editor-Desu-NAI) | 基于上游漫画编辑器的修改发行版；上游功能与本仓库改动在 README 中分开说明 |
+| Manga-NAI-GPT | [当前主线](https://github.com/h1neolzr7f/Manga-NAI-GPT) | 新手友好的漫画修图 / 嵌字（换角色、改字幕、去字、分层、本机 AI + 自备 GPT-image / NovelAI）；干净公开发行仓 |
+| Manga Editor Desu · NAI（历史 / NovelAI 线） | [历史仓](https://github.com/h1neolzr7f/Manga-Editor-Desu-NAI) | 上游 manga-editor-desu 的 NovelAI 改版与旧 Windows 发行；新功能优先在 Manga-NAI-GPT |
 | 理塘百宝箱 | [源码与发布](https://github.com/h1neolzr7f/litang-baibaoxiang) | 本地图片后处理工具；Windows 与 Android 的交付范围以发布说明为准 |
 | yizi | [源码](https://github.com/h1neolzr7f/yizi) | 针对已有漫画页面的本地中文编剧辅助工具，不生成新的页面图片 |
 | 樱夜·尸潮 | [玩家仓](https://github.com/h1neolzr7f/sakurayo-zombietide) · [开发仓](https://github.com/h1neolzr7f/sakurayo-v46-handoff) | 玩家仓提供下载与使用说明；开发仓保存代码基线和维护材料，两者不是两个独立游戏 |
