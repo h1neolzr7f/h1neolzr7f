@@ -154,7 +154,7 @@ QQ 机器人插件：NAI5 出图、反推、反推漫画分镜。需自备 AstrB
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=h1neolzr7f&show_icons=true&icon_color=e63946&ring_color=e63946&rank_icon=github&hide_border=true&locale=cn&bg_color=0d0d0d&title_color=e63946&text_color=e6e6e6&border_radius=10" alt="GitHub 统计" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=h1neolzr7f&custom_title=h1neolzr7f%20%E7%9A%84%20GitHub%20%E6%95%B0%E6%8D%AE&show_icons=true&icon_color=e63946&ring_color=e63946&rank_icon=github&hide_border=true&locale=cn&bg_color=0d0d0d&title_color=e63946&text_color=e6e6e6&border_radius=10" alt="GitHub 统计" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h1neolzr7f&layout=compact&langs_count=8&hide_border=true&locale=cn&bg_color=0d0d0d&title_color=e63946&text_color=e6e6e6&border_radius=10" alt="常用语言" />
 
 <img src="https://streak-stats.demolab.com/?user=h1neolzr7f&hide_border=true&locale=zh_Hans&background=0D0D0D&ring=E63946&fire=E63946&currStreakNum=FFFFFF&currStreakLabel=E63946&sideNums=FFFFFF&sideLabels=BBBBBB&dates=888888&stroke=333333&border_radius=10" alt="连续贡献" />
